@@ -4,7 +4,7 @@ A responsive finance dashboard built using React that allows users to track tran
 
 ---
 
-# 🚀 Features (Mapped to Assignment Requirements)
+# 🚀 Features 
 
 1️⃣ Dashboard Overview
 - Summary cards:
@@ -107,5 +107,4 @@ npm start
 ![Transactions](assets/screenshots/Transactions.png)
 
 ---
-npm install
-npm start
+
